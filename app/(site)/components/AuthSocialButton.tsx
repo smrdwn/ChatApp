@@ -14,7 +14,7 @@ const AuthSocialButton: React.FC<AuthSocialButtonProps> = ({
   return (
     <button
         type="button"
-        onClick={onclick}
+        onClick={onClick}
         className="
             inline-flex
             w-full
